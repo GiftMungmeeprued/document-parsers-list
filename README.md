@@ -54,3 +54,7 @@
 ![Layout Parsers](figures/pdf-to-layout.png)
 
 🚧 Coming soon
+
+# Contributing
+
+If you would like to contribute in any way, please read `CONTRIBUTING.md` and then make a contribution. Thank you!

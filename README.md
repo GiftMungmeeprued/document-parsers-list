@@ -7,6 +7,8 @@
 
 ## PDF-to-Text Converters
 
+Usually outputs as raw text or markdown
+
 ![PDF-to-Text Converters](figures/pdf-to-text.png)
 
 ### Machine-generated Documents only
@@ -51,9 +53,17 @@
 
 # Layout Parsers
 
+Usually outputs as JSON containing bounding box coordinates, content (as raw text or markdown), and sometimes type (header, figure, paragraph, etc.)
+
 ![Layout Parsers](figures/pdf-to-layout.png)
 
-🚧 Coming soon
+🚧 WORK IN PROGRESS
+
+| Models                                                      | Source                                                                                                                                 | Output | [Table](https://github.com/GiftMungmeeprued/document-parsers-list/tree/main/results/table) | [Equation](https://github.com/GiftMungmeeprued/document-parsers-list/tree/main/results/equation) | [Handwriting](https://github.com/GiftMungmeeprued/document-parsers-list/tree/main/results/handwriting-cursive) | [Two columns](https://github.com/GiftMungmeeprued/document-parsers-list/tree/main/results/two-column) | [Multiple columns](https://github.com/GiftMungmeeprued/document-parsers-list/tree/main/results/multi-column) |
+| ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| [Chunkr](https://chunkr.ai/)                                | [![GitHub Repo stars](https://img.shields.io/github/stars/lumina-ai-inc/chunkr?style=social)](https://github.com/lumina-ai-inc/chunkr) |        |                                                                                            |                                                                                                  |                                                                                                                |                                                                                                       |                                                                                                              |
+| [GroundX](https://www.eyelevel.ai/product/groundx-platform) | -                                                                                                                                      |        |                                                                                            |                                                                                                  |                                                                                                                |                                                                                                       |                                                                                                              |
+| [ChatDOC](https://pdfparser.io/)                            | -                                                                                                                                      |        |                                                                                            |                                                                                                  |                                                                                                                |                                                                                                       |                                                                                                              |
 
 # Contributing
 

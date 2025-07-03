@@ -1,0 +1,22 @@
+2.2
+Regge trajectories and anomalous dimensions
+Let us list some families of local operators that will be important in this work. The lowest
+twist families are “double-twist” operators built from two scalars ϕi. These can be grouped
+into O(N) singlets, antisymmetric tensors, and symmetric tensors as follows:
+[(ϕiϕj)s]J ∼ϕi∂µ1 · · · ∂µJϕi + · · · ,
+τ = d −2 + O(1/N) ,
+[(ϕiϕj)sym]J ∼ϕ(i∂µ1 · · · ∂µJϕj) + · · · ,
+τ = d −2 + O(1/N) ,
+[(ϕiϕj)asym]J ∼ϕ[i∂µ1 · · · ∂µJϕj] + · · · ,
+τ = d −2 + O(1/N) .
+(2.5)
+Here “. . . ” represents combinations of derivatives needed to ensure that the operator is pri-
+mary. By analogy with QCD, we will sometimes refer to these leading twist operators as
+DGLAP-type [2, 69, 70]. In the limit N →∞, these operators become higher-spin conserved
+currents with scaling dimensions ∆= J + d −2. At finite N, the higher-spin symmetries
+are slightly broken and these operators acquire anomalous dimensions, except for the spin-2
+singlet current, which is the stress tensor [(ϕiϕi)s]2 = Tµν. The leading anomalous dimensions
+are [71, 72]
+γsym,J = γasym,J = 1
+N
+16(J −1)(d + J −2) sin

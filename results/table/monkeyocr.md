@@ -1,0 +1,21 @@
+# Sensor Drying Programme Guide  
+
+<html>
+<table><thead><tr><th style="text-align: center; border: 1px solid black;">Programme</th><th style="text-align: center; border: 1px solid black;">Eco $\boxed{\bigtriangleup}$</th><th style="text-align: center; border: 1px solid black;">Max. Load Capacity</th><th style="text-align: center; border: 1px solid black;">10 kg</th></tr></thead><tbody><tr><td style="text-align: left; border: 1px solid black;"><b>Description</b></td><td colspan="3" style="text-align: left; border: 1px solid black;">Use for drying with less energy consumption for all normal items such as cotton, linen, shirts, jeans or mixed loads, except delicate fabrics such as wool or silk.</td></tr><tr><td style="text-align: left; border: 1px solid black;"><b>Dry Level</b></td><td style="text-align: left; border: 1px solid black;">Default : <b>Cupboard</b></td><td colspan="2" style="text-align: left; border: 1px solid black;">Available : <b>All</b></td></tr></tbody></table>
+</html>  
+
+<html>
+<table><thead><tr><th style="text-align: left; border: 1px solid black;">Programme</th><th style="text-align: left; border: 1px solid black;">Cotton</th><th style="text-align: left; border: 1px solid black;">Max. Load Capacity</th><th style="text-align: left; border: 1px solid black;">10 kg</th></tr></thead><tbody><tr><td style="text-align: left; border: 1px solid black;"><b>Description</b></td><td colspan="3" style="text-align: left; border: 1px solid black;">Use for drying all normal items such as cotton, linen, shirts, jeans or mixed loads, except delicate fabrics such as wool or silk.</td></tr><tr><td style="text-align: left; border: 1px solid black;"><b>Dry Level</b></td><td style="text-align: left; border: 1px solid black;">Default : <b>Cupboard</b></td><td colspan="2" style="text-align: left; border: 1px solid black;">Available : <b>All</b></td></tr></tbody></table>
+</html>  
+
+<html>
+<table><thead><tr><th style="text-align: left; border: 1px solid black;">Programme</th><th style="text-align: left; border: 1px solid black;">Mixed Fabric</th><th style="text-align: left; border: 1px solid black;">Max. Load Capacity</th><th style="text-align: left; border: 1px solid black;">4 kg</th></tr></thead><tbody><tr><td style="text-align: left; border: 1px solid black;"><b>Description</b></td><td colspan="3" style="text-align: left; border: 1px solid black;">Dries mixed fabrics simultaneously.<br>• Use for various kind of fabrics except special garments (silk/ delicate, sports wear, dark clothes, wool, duvet/curtains).</td></tr><tr><td style="text-align: left; border: 1px solid black;"><b>Dry Level</b></td><td style="text-align: left; border: 1px solid black;">Default : <b>Cupboard</b></td><td colspan="2" style="text-align: left; border: 1px solid black;">Available : <b>All</b></td></tr></tbody></table>
+</html>  
+
+<html>
+<table><thead><tr><th style="text-align: left; border: 1px solid black;">Programme</th><th style="text-align: left; border: 1px solid black;">Easy Care</th><th style="text-align: left; border: 1px solid black;">Max. Load Capacity</th><th style="text-align: left; border: 1px solid black;">4 kg</th></tr></thead><tbody><tr><td style="text-align: left; border: 1px solid black;"><b>Description</b></td><td colspan="3" style="text-align: left; border: 1px solid black;">Dries clothes that do not need ironing after drying.<br>• Use for polyamide, acrylic, polyester.</td></tr><tr><td style="text-align: left; border: 1px solid black;"><b>Dry Level</b></td><td style="text-align: left; border: 1px solid black;">Default : Cupboard</td><td colspan="2" style="text-align: left; border: 1px solid black;">Available : Cupboard,<br>Iron</td></tr></tbody></table>
+</html>  
+
+<html>
+<table><thead><tr><th style="text-align: left; border: 1px solid black;">Programme</th><th style="text-align: left; border: 1px solid black;">Duvet</th><th style="text-align: left; border: 1px solid black;">Max. Load Capacity</th><th style="text-align: left; border: 1px solid black;">2.5 kg</th></tr></thead><tbody><tr><td style="text-align: left; border: 1px solid black;"><b>Description</b></td><td colspan="3" style="text-align: left; border: 1px solid black;">Use this programme for drying blankets or bulky items such as pillows, blankets, comforters, sheets or pet bedding.</td></tr></tbody></table>
+</html>  
